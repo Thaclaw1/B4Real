@@ -45,10 +45,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+A challenge I ran into was separating each function into a different file as I usually keep it all in one but it is much more organized this way and easier to troubleshoot
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
